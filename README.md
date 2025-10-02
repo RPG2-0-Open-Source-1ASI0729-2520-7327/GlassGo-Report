@@ -38,7 +38,6 @@ Releases follow **Semantic Versioning**:
 - [Version History](docs/versions.md)  
 - [Collaboration Insights](docs/collaboration.md)  
 - [Table of Contents](docs/toc.md)  
-- [Student Outcome](docs/student-outcome.md)  
 - [Chapter I – Introduction](docs/01-introduction.md)  
 - [Chapter II – Requirements Elicitation & Analysis](docs/02-requirements-elicitation-analysis.md)  
 - [Chapter III – Requirements Specification](docs/03-requirements-specification.md)  
