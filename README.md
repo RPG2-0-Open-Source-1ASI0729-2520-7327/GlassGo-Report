@@ -50,9 +50,12 @@ Releases follow **Semantic Versioning**:
 
 ## Authors
 Team **RPG2.0 Startup**  
-- Jean Niels Arizabal Condori - 201919096
-- Gerardo Valentín Palacín Lazo - u20211c201
 - Guillermo Arturo Howard Robles - u202222275
-- Sebastián Augusto Gutiérrez Santillán - u202310708
 - David Ignacio Vivar Cesar - u202414424
 - Mike Dylan Guillen Giraldo - u202211881
+
+ABET \-- EAC \- Student Outcome 3:
+
+Criterio: Capacidad de comunicarse eficientemente con un rango de audiencias
+
+En el siguiente cuadro se describen las acciones realizadas  y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET \-- EAC \- Student Outcome 3\.
