@@ -128,8 +128,8 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
 
 ![][image5]
 
-* **URL:**  
-* **Timing (Inicio \- Fin):**  
+* **URL: [https://upcedupe-my.sharepoint.com/personal/u20211c201\_upc\_edu\_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4](https://upcedupe-my.sharepoint.com/personal/u20211c201_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4)**   
+* **Timing (Inicio \- Fin): 00:00 \- 10.48**  
 * **Resumen descriptivo:**  
     
   Luis Abad Palacin López, gerente de operaciones de HPL Transport SAC, es un profesional con más de 20 años de experiencia en el rubro del transporte de carga por carretera. A sus 50 años, se caracteriza por una personalidad meticulosa, analítica y orientada a la eficiencia operativa, lo que se refleja en su forma de gestionar procesos y supervisar la flota. Su liderazgo combina disciplina y control logístico con un enfoque preventivo hacia la seguridad vial y el mantenimiento técnico. La empresa cuenta con una flota de camiones en donde transportan principalmente envases y productos terminados de la Cervecería Backus, operando tanto en Lima, provincia y la selva peruana. La ayuda de aliados logísticos son cruciales para seguir ampliando su alcance a nivel nacional, lo que categoriza la comunicación y la planificación, entre la central logística y los conductores del transporte, en un nivel alto e incluso crucial durante temporadas de mayor demanda como fiestas nacionales, Navidad y Año Nuevo.   
@@ -150,8 +150,8 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
 * **Screenshot:**  
   **![][image6]**  
     
-* **URL:**  
-* **Timing (Inicio \- Fin):**  
+* **URL: [https://upcedupe-my.sharepoint.com/personal/u20211c201\_upc\_edu\_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4](https://upcedupe-my.sharepoint.com/personal/u20211c201_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4)**   
+* **Timing (Inicio \- Fin): 10:51 \- 40:18**  
 * **Resumen descriptivo:**  
     
   Jordan Paolo Palacín Raraz, de 31 años, trabaja como analista de distribución primaria en Arca Continental Logística donde labora desde hace más de dos años y acumula cinco años y medio de experiencia en el rubro de distribución. Su perfil refleja una personalidad analítica, responsable y metódica, con un fuerte enfoque en la eficiencia operativa y la planificación logística. Muestra una comunicación clara, técnica y centrada en la resolución de problemas, lo que evidencia su conocimiento profundo de los procesos de transporte y abastecimiento nacional. En su puesto, coordina la distribución de productos a nivel nacional, asegurando que las entregas lleguen en el tiempo óptimo y con las cantidades solicitadas. Los principales clientes que atiende son almacenes propios de la compañía y mayoristas siendo sus  picos más altos entre los meses de verano y finales de año.  
@@ -176,8 +176,8 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
 
 ![][image7]
 
-* **URL:**  
-* **Timing (Inicio \- Fin):**  
+* **URL: [https://upcedupe-my.sharepoint.com/personal/u20211c201\_upc\_edu\_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4](https://upcedupe-my.sharepoint.com/personal/u20211c201_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4)**   
+* **Timing (Inicio \- Fin): 40:19 \- 46:25**  
 * **Resumen descriptivo:**
 
 
@@ -202,8 +202,8 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
 * **Distrito:** Arequipa  
 * **Screenshot:**  
   ![][image8]  
-* **URL:**  
-* **Timing (Inicio \- Fin):**  
+* **URL: [https://upcedupe-my.sharepoint.com/personal/u20211c201\_upc\_edu\_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4](https://upcedupe-my.sharepoint.com/personal/u20211c201_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4)**   
+* **Timing (Inicio \- Fin): 57:30 \- 01:04:35**  
 * **Resumen descriptivo:**
 
 
@@ -231,8 +231,8 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
 
 ![][image9]
 
-* **URL:**  
-* **Timing (Inicio \- Fin):**  
+* **URL: [https://upcedupe-my.sharepoint.com/personal/u20211c201\_upc\_edu\_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4](https://upcedupe-my.sharepoint.com/personal/u20211c201_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4)**   
+* **Timing (Inicio \- Fin): 46:26 \- 57:28**  
 * **Resumen descriptivo:**
 
   Lulio Adolfo Palacín López, supervisor de transporte en Distribuidora San Martín, cuenta con más de 10 años de experiencia en la gestión logística dentro del sector de distribución de licores. A sus 46 años, proyecta una personalidad organizada, resolutiva y comprometida con la eficiencia operativa, orientada principalmente a la programación de viajes, la coordinación con conductores y la supervisión del traslado de mercancías hacia clientes diversos, entre ellos bares, licorerías, restaurantes, pequeños supermercados y minimarkets de la ciudad de Lima.
@@ -250,8 +250,8 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
 * **Edad:** 52 años  
 * **Distrito:** Lima metropolitana  
 * **Screenshot:	![][image10]**  
-* **URL:**  
-* **Timing (Inicio \- Fin):**  
+* **URL: [https://upcedupe-my.sharepoint.com/personal/u20211c201\_upc\_edu\_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4](https://upcedupe-my.sharepoint.com/personal/u20211c201_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4)**   
+* **Timing (Inicio \- Fin): 01:04:36 \- 01:14:50**  
 * **Resumen descriptivo:**  
   Luis Javier Jiménez Sandoval, empresario limeño de 52 años, cuenta con 28 años de experiencia en la venta y distribución de licores, tanto al por mayor como al por menor, dentro del sector de Lima Metropolitana. Su negocio se caracteriza por una trayectoria consolidada basada en relaciones de confianza, principalmente con bares, restaurantes y licorerías, evitando atender a supermercados debido a los altos volúmenes y exigencias de bonificaciones que estos requieren. En cuanto a la estacionalidad del mercado, Javier explica que los productos de mayor demanda varían según la época del año: los licores espirituosos (whisky, vodka, ron de 40°) registran su mayor venta en otoño e invierno, mientras que las cervezas y bebidas listas para consumir (RTD) dominan las temporadas de primavera y verano. El volumen de distribución fluctúa entre 500 y 1000 cajas mensuales, dependiendo de la estacionalidad. 
 
@@ -273,8 +273,8 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
 
 ![][image11]
 
-* **URL:**  
-* **Timing (Inicio \- Fin):**  
+* **URL: [https://upcedupe-my.sharepoint.com/personal/u20211c201\_upc\_edu\_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4](https://upcedupe-my.sharepoint.com/personal/u20211c201_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4)**   
+* **Timing (Inicio \- Fin): 01:21:59 \- 01:25:35**  
 * **Resumen descriptivo:**
 
   Carla Martínez, administradora de un negocio minorista con tres años de operación, demuestra una personalidad organizada, metódica y enfocada en el control del inventario. A sus 33 años, combina disciplina y adaptabilidad en la gestión, destacando por un liderazgo práctico y una visión orientada a la eficiencia operativa. Su labor diaria se centra en coordinar los procesos de abastecimiento y mantener la estabilidad del flujo de productos, apoyándose principalmente en herramientas digitales básicas.
@@ -296,8 +296,8 @@ GlassGo se posiciona como la solución integral para el transporte de licores en
     
   **![][image12]**  
     
-* **URL:**  
-* **Timing (Inicio \- Fin):**  
+* **URL: [https://upcedupe-my.sharepoint.com/personal/u20211c201\_upc\_edu\_pe/\_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4](https://upcedupe-my.sharepoint.com/personal/u20211c201_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c201%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20%2D%20Capitulo%20II%20%2D%20Web%2FEntrevistas%2Dcompilacion%2Emp4)**   
+* **Timing (Inicio \- Fin): 01:14:52 \- 01:21:57**  
 * **Resumen descriptivo:**
 
   Alejandro Rodríguez, de 37 años, es propietario de un bar de tamaño mediano ubicado en Lima, con varios años de funcionamiento. Su negocio se orienta a un público joven y adulto joven. Alejandro proyecta una personalidad organizada, analítica y con interés en mantener control operativo, aunque delega parte de la gestión a su equipo. Muestra predisposición al uso de la tecnología, aunque prefiere mantener una supervisión directa de los procesos administrativos.
