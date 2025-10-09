@@ -49,9 +49,17 @@ Releases follow **Semantic Versioning**:
 
 ## Authors
 Team **RPG2.0 Startup**  
-- Jean Niels Arizabal Condori - 201919096
-- Gerardo Valentín Palacín Lazo - u20211c201
 - Guillermo Arturo Howard Robles - u202222275
-- Sebastián Augusto Gutiérrez Santillán - u202310708
 - David Ignacio Vivar Cesar - u202414424
 - Mike Dylan Guillen Giraldo - u202211881
+
+ABET \-- EAC \- Student Outcome 3:
+
+Criterio: Capacidad de comunicarse eficientemente con un rango de audiencias
+
+En el siguiente cuadro se describen las acciones realizadas  y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET \-- EAC \- Student Outcome 3\.
+
+| Criterio específico | Acciones realizadas | Conclusiones |
+| :---- | :---- | :---- |
+| Comunica oralmente con efectividad a diferentes rangos de audiencia | Howard Robles, Guillermo Arturo TB1: Lideró la presentación de mock-ups y flujos funcionales a usuarios durante sesiones grupales; además, condujo entrevistas como parte del proceso de needfinding. TP: Explicó objetivos y organización de tareas durante el Sprint Planning 2\. David Ignacio, Vivar Cesar TB1: Lideró la explicación del Lean UX Canvas y su relación con hallazgos del usuario. TP: Coordinó la exposición de contextos delimitados durante el Event Storming. Mike Dylan Guillen Geraldo TB1: Lideró la presentación del perfil de usuarios y user personas, enfocando en los hallazgos del proceso de necesidad. TP: Explicó el Sprint Backlog 2 en reuniones de planificación.  | TB1: Cada integrante asumió liderazgo en al menos una sección clave de comunicación oral. Esto permitió no solo desarrollar habilidades expresivas, sino también adaptar el lenguaje según el tipo de audiencia. A través de entrevistas, presentaciones de análisis, prototipos y flujos, el equipo transmitió efectivamente conceptos complejos y decisiones de diseño. TP: La participación activa y rotativa en presentaciones orales fortaleció la cohesión del grupo y la claridad de los mensajes. Los videos, reuniones y exposiciones contribuyeron a comunicar con precisión el progreso técnico y organizacional del proyecto.  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | Howard Robles, Guillermo Arturo Yaku Guzmán TB1: Lideró la redacción de escenarios de usuario y tareas funcionales; documentó el desarrollo inicial del flujo base. TP: Redactó las conclusiones del equipo y afinó la coherencia de los supuestos. David Ignacio, Vivar Cesar TB1: Lideró la elaboración escrita del Lean UX Canvas y síntesis de hallazgos. TP: Redactó reflexiones del equipo sobre colaboración durante el Sprint. Mike Dylan Guillen Geraldo TB1: Lideró la documentación del proceso de entrevistas y validación de usuarios. TP: Documentó las evidencias del despliegue de software para revisión técnica.  | TB1: Cada integrante tomó liderazgo en la elaboración de entregables escritos clave, garantizando una comunicación clara, precisa y estructurada. Esto permitió representar con fidelidad el trabajo realizado, desde documentos metodológicos como el Lean UX Canvas, hasta descripciones funcionales, user personas y análisis técnicos. TP: El equipo fortaleció su redacción técnica corrigiendo y mejorando entregas anteriores, lo cual se refleja en la calidad y claridad de los nuevos documentos. Cada evidencia escrita permitió comunicar adecuadamente tanto los avances del producto como el proceso seguido por el equipo.  |
