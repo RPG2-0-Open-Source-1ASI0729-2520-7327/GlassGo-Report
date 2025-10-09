@@ -97,7 +97,7 @@ Cada historia define claramente quién es el usuario, qué desea lograr y con qu
 2. ## Impact Mapping
 
 El *Impact Mapping* se utilizó como una herramienta estratégica para conectar los objetivos del negocio con las acciones y comportamientos esperados de los usuarios. Este método permitió identificar a los actores principales, sus impactos en el logro de las metas y los entregables necesarios para generar dichos cambios. En el contexto de **GlassGo**, el mapa de impacto facilitó la alineación entre los *Business Goals* y los requerimientos del producto digital, asegurando que cada desarrollo contribuya de manera directa al cumplimiento de los objetivos propuestos por el proyecto.  
-![][image1]
+![ImpactMap](../src/images/chapter3/impact-mapping/ImpactMap.png)
 
 3. ## Product Backlog
 
